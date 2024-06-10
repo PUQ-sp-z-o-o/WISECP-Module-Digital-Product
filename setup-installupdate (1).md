@@ -1,0 +1,23 @@
+# Setup (install/update)
+
+### Digital Product module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-digital-product) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Digital-Product/) | [FAQ](https://faq.puqcloud.com/)
+
+<p class="callout info">To install and update a module, you must perform one and the same action.</p>
+
+##### 1. Download the latest version of the module.
+
+```Powershell
+wget http://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Digital-Product/PUQ_WISECP-Digital-Product-latest.zip
+```
+
+<p class="callout info">All versions are available: [https://download.puqcloud.com/WISECP/Product/PUQ\_WISECP-Digital-Product/](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Digital-Product/)</p>
+
+##### 2. Unzip the archive with the module.
+
+```Powershell
+unzip PUQ_WISECP-Digital-Product-latest.zip
+```
+
+##### 3. Copy and Replace "puqDigitalProduct" from "PUQ\_WISECP-Digital-Product" to "WISECP\_WEB\_DIR/coremio/modules/Product/"

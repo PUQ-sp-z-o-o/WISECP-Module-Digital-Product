@@ -1,0 +1,9 @@
+# Changelog
+
+### Digital Product module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-digital-product) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Digital-Product/) | [FAQ](https://faq.puqcloud.com/)
+
+##### v1.0 Released 09-06-2024
+
+First version

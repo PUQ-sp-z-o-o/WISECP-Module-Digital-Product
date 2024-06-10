@@ -1,0 +1,16 @@
+# Order Detail
+
+### Digital Product module **[WISECP](https://puqcloud.com/link.php?id=78)** 
+
+##### [Order now](https://puqcloud.com/index.php?rp=/store/wisecp-module-digital-product) | [Download](https://download.puqcloud.com/WISECP/Product/PUQ_WISECP-Digital-Product/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Navigate to the service you want to manage, then go to the '**Core**' tab.
+
+[![image-1717999238207.png](https://doc.puq.info/uploads/images/gallery/2024-06/scaled-1680-/image-1717999238207.png)](https://doc.puq.info/uploads/images/gallery/2024-06/image-1717999238207.png)
+
+In the opened tab, you have a view of the online status of the service. The available online information includes:  
+  
+**Recreate Share:** Clicking this button will automatically delete the shared link and create a new one again.
+
+- Connection status to the API
+- Information about share url
